@@ -36,11 +36,10 @@ export class User {
 
     displayColors = (data) =>{
         data.addEventlistener("click");
-        const data = document.querySelector(".user"[data-present ]);
+        document.querySelector(".user"[data-present ]);
         if (data = true){
             this.data = data-present;
-            
-          
+
         }
         
       }
