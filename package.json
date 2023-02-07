@@ -1,0 +1,17 @@
+{
+  "name": "here!",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "start": "parcel src/index.html"
+  },
+  "author": "Simon Pinkas",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  },
+  
+  "keywords": [],
+  "description": ""
+}
